@@ -1,0 +1,20 @@
+.-app1-app1-1Setbc- {
+    color:yellow;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: red
+}
+
+.-app1-decorateNav-1ACYCD- {
+    background-color:red;
+}
+
+.-app1-allign-2-CVQJ- {
+    background-color:red;
+    display:flex;
+    flex-direction:column;
+}

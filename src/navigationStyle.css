@@ -1,0 +1,8 @@
+.decorateNav {
+    background-color:red;
+}
+
+.allign {
+    display:flex;
+    flex-direction:column;
+}
